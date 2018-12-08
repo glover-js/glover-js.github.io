@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://glover-js.github.io/blog</id>
+    <title>Glover Blog</title>
+    <updated>2017-10-24T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://glover-js.github.io/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Glover news and events.</subtitle>
+    <logo>https://glover-js.github.io/img/docusaurus.svg</logo>
+    <entry>
+        <title type="html"><![CDATA[Test post]]></title>
+        <id>https://glover-js.github.io/blog/2017/10/24/new-version-1.0.0.html</id>
+        <link href="https://glover-js.github.io/blog/2017/10/24/new-version-1.0.0.html">
+        </link>
+        <updated>2017-10-24T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a test post</p> ]]></summary>
+        <author>
+            <name>Olle Lauri Boström</name>
+            <uri>https://github.com/ollelauribostrom</uri>
+        </author>
+    </entry>
+</feed>

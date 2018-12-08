@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Glover Blog</title>
+        <link>https://glover-js.github.io/blog</link>
+        <description>The best place to stay up-to-date with the latest Glover news and events.</description>
+        <lastBuildDate>Tue, 24 Oct 2017 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Glover Blog</title>
+            <url>https://glover-js.github.io/img/docusaurus.svg</url>
+            <link>https://glover-js.github.io/blog</link>
+        </image>
+        <item>
+            <title><![CDATA[Test post]]></title>
+            <link>https://glover-js.github.io/blog/2017/10/24/new-version-1.0.0.html</link>
+            <guid>https://glover-js.github.io/blog/2017/10/24/new-version-1.0.0.html</guid>
+            <pubDate>Tue, 24 Oct 2017 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>This is a test post</p> ]]></description>
+        </item>
+    </channel>
+</rss>
